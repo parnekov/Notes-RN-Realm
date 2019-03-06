@@ -9,8 +9,8 @@ JavaScript, React Native, Redux, Redux Thunk, Realm Database.
 ## View
 <table align="left" width="100%">
   <tbody>
-      <td colspan="1"> <img src="./src/img/screenshot_1.png" alt=" screenshot"/> </td>
-      <td colspan="2"> <img src="./src/img/screenshot_2.png" alt=" screenshot"/> </td>
+      <td colspan="1"> <img src="./img/screenshot_1.png" alt=" screenshot"/> </td>
+      <td colspan="2"> <img src="./img/screenshot_2.png" alt=" screenshot"/> </td>
   </tbody>
 </table>
 
